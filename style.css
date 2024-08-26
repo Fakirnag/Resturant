@@ -50,9 +50,7 @@ nav{
 }
 
 .link:hover{
-    background-color: white;
     color: black;
-    border: none;
     border-radius: 6px;
     border-buttom:2px solid white;
  
